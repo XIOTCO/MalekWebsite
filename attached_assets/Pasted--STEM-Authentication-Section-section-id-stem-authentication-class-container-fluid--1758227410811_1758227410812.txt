@@ -1,0 +1,60 @@
+<!-- STEM Authentication Section -->
+      <section id="stem-authentication" class="container-fluid py-5 bg-light">
+         <div class="container">
+            <!-- section heading -->  
+            <div class="section-heading text-center mb-5" data-aos="fade-up">
+               <h2>STEM Authenticated</h2>
+               <p class="subtitle">World's First Generative AI Product for Kids</p>
+            </div>
+            <!-- /section heading -->
+            
+            <div class="row align-items-center">
+               <!-- STEM Logo -->
+               <div class="col-lg-4 text-center mb-4 mb-lg-0" data-aos="fade-right" data-aos-delay="200">
+                  <div class="stem-logo-container">
+                     <img src="img/stem-logo.png" alt="STEM Authenticated" class="img-fluid stem-logo-bounce">
+                  </div>
+               </div>
+               
+               <!-- Main Content -->
+               <div class="col-lg-8" data-aos="fade-left" data-aos-delay="300">
+                  <div class="stem-content">
+                     <p class="lead mb-4">Malek AI is proudly certified as a STEM Authenticated Educational Product, meeting the highest standards for science, technology, engineering, and mathematics education. Our platform has been rigorously evaluated and approved by educational experts to ensure it delivers meaningful learning outcomes.</p>
+                     
+                     <!-- Feature Boxes -->
+                     <div class="row mt-4">
+                        <div class="col-md-4 mb-3" data-aos="zoom-in" data-aos-delay="400">
+                           <div class="stem-feature-box h-100">
+                              <div class="feature-icon">
+                                 <i class="flaticon-abc-block"></i>
+                              </div>
+                              <h5>Research-Based Learning</h5>
+                              <p class="small">Built on proven educational methodologies and cognitive science principles</p>
+                           </div>
+                        </div>
+                        
+                        <div class="col-md-4 mb-3" data-aos="zoom-in" data-aos-delay="500">
+                           <div class="stem-feature-box h-100">
+                              <div class="feature-icon">
+                                 <i class="flaticon-blackboard"></i>
+                              </div>
+                              <h5>Curriculum Aligned</h5>
+                              <p class="small">Supports national and international STEM education standards</p>
+                           </div>
+                        </div>
+                        
+                        <div class="col-md-4 mb-3" data-aos="zoom-in" data-aos-delay="600">
+                           <div class="stem-feature-box h-100">
+                              <div class="feature-icon">
+                                 <i class="flaticon-teacher"></i>
+                              </div>
+                              <h5>Measurable Outcomes</h5>
+                              <p class="small">Proven to improve critical thinking and problem-solving skills</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
